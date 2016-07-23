@@ -319,3 +319,10 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+.hot {
+	color: red;
+	}
+.cold {
+	color: blue;
+	}
